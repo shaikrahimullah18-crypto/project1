@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shaikrahimullah18-crypto/project1",
+  "homepage": "https://shaikrahimullah18-crypto.github.io/project1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
